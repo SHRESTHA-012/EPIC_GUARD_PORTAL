@@ -5,7 +5,7 @@ import "./index.css";
 import App from "./App.jsx";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Dashboard from "./Dashboard/Dashboard.jsx";
-import LandingPage from "../../../LandingPage.jsx";
+import LandingPage from "./LandingPage/LandingPage.jsx";
 import Login from "./Credentials/Login.jsx";
 
 createRoot(document.getElementById("root")).render(

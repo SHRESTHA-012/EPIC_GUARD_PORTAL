@@ -362,7 +362,7 @@ export default function LandingPage() {
                 letterSpacing: "0.5px",
               }}
             >
-              SENTINELEYE
+              CYBERWARDEN
             </span>
           </div>
 
@@ -1055,7 +1055,7 @@ export default function LandingPage() {
                 fontSize: "16px",
               }}
             >
-              SENTINELEYE
+              CYBERWARDEN
             </span>
           </div>
           <p
